@@ -1,37 +1,70 @@
 # Hi, I'm Sanobia Sadaf! 👋
 
-### 💻 Cloud & DevOps Enthusiast | IT Support | Automation | AWS | Python
+###  "Building in the cloud ☁️, automating on Earth 🌍."
 
-I am a passionate **IT Professional** with experience in **IT support, cloud technologies, and automation**. Currently, I am focused on enhancing my **cloud engineering** and **DevOps** skills, aiming to build scalable and efficient solutions.
+I’m a passionate **IT Professional** with a growing background in **IT support**, **cloud technologies**, and **automation**. From tackling support tickets to building CI/CD pipelines, I'm always learning, building, and looking for smarter ways to make tech work better.
+
+Currently leveling up in **Cloud Engineering**, **DevOps**, and **MDM solutions** while pursuing certifications that strengthen my core knowledge in IT infrastructure and support.
+
+---
 
 ### 🛠️ Tech Stack & Skills
-- **Cloud**: AWS (EC2, S3, IAM, ECS)
-- **DevOps Tools**: Docker, Jenkins, Git
-- **Programming & Scripting**: Python, Bash, HTML
-- **IT Support & Troubleshooting**: Desktop Support, System Administration
-- **Version Control**: Git & GitHub
+
+- **Cloud Platforms**:  
+  AWS (EC2, S3, IAM, ECS), Microsoft Azure (Admin, Fundamentals), Office 365 (Admin Center, Outlook, Teams)
+
+- **DevOps & Tools**:  
+  Docker, Jenkins, Git, GitHub Actions, CI/CD pipelines
+
+- **MDM & IT Administration**:  
+  Microsoft Intune, Samsung Knox, Windows Autopilot, Endpoint Manager
+
+- **Programming & Scripting**:  
+  Python, Bash, HTML, PowerShell (beginner)
+
+- **IT Support & Troubleshooting**:  
+  Desktop Support, System Administration, Onboarding/Offboarding Processes, Microsoft 365 suite
+
+- **Other**:  
+  Service Desk, Device Enrollment, User Provisioning, Excel Automation, Change Management
 
 ---
 
 ### 🚀 Featured Projects
-#### 📌 [Cloud-Based CI/CD Pipeline](https://github.com/Sansadcode/build.git)
-- Developed a web application demonstrating Continuous Integration and Continuous Deployment (CI/CD) pipeline to enhance understanding of
-- DevOps principles and cloud infrastructure. Utilized AWS services (EC2 , S3 , IAM), Jenkins, Docker, Git, HTML and Python to automate deployments
 
+#### 📌 [Cloud-Based CI/CD Pipeline](https://github.com/Sansadcode/build.git)
+- Built a sample web app with a CI/CD pipeline to demonstrate DevOps workflows.
+- Used **AWS EC2**, **S3**, **IAM**, **Jenkins**, **Docker**, **Git**, **Python**, and **HTML** for automated deployments.
 
 #### 📌 [Python programs with basic Scripting](https://github.com/Sansadcode/startpy.git)
-- Beginer level python program for beginnners covering Datatypes , conditional statements , loops.. etc 
+- Beginner-friendly Python scripts covering **datatypes**, **loops**, **conditionals**, and **file handling**.
 
 ---
-### 🎓 Certifications (In Progress & Completed)
-- **AWS Cloud Practitioner (In Progress)**
-- **CEP™ Certified Entry-Level Python Programmer (In Progress)**
-- **Microsoft Azure Fundamentals (In Progress)**
-- **Microsoft Azure AI Fundamentals (In Progress)**
-- **Microsoft Security, Compliance & Identity Fundamentals (In Progress)**
 
+### 🎓 Certifications
+
+- **AWS Certified Cloud Practitioner** 
+- **Microsoft Azure Fundamentals**
+- **Microsoft Azure AI Fundamentals** 
+- **Microsoft Security, Compliance & Identity Fundamentals** 
+- **CEP™ Certified Entry-Level Python Programmer** 
+- **CompTIA A+** *(Studying - Expected Completion Soon)*
 
 ---
+
+### 🌱 What I'm Currently Exploring
+
+- 🎯 **Microsoft Intune & MDM Enrollment** (with Samsung Knox, Endpoint Manager)  
+- 🔄 **Automation with PowerShell & Python**  
+- ☁️ **Building scalable solutions in AWS & Azure**  
+- 🧠 **Troubleshooting in Microsoft 365 & Endpoint security tools**  
+- 🛠️ **Standardizing IT onboarding and device management workflows**
+
+---
+
+### 💬 Let's Connect!
+
+If you're into **cloud infra**, **automation**, or just love solving weird IT puzzles, let's chat!  
 
 ### 📫 Connect with Me
 - **GitHub**: [github.com/sanobia-sadaf](https://github.com/Sansadcode)
